@@ -56,4 +56,27 @@ joblib>=1.3.0
 matplotlib>=3.7.0
 seaborn>=0.12.0
 
+---
 
+📊 Dataset Information
+Features:
+
+Pregnancies
+
+Glucose
+
+Blood Pressure
+
+Skin Thickness
+
+Insulin
+
+BMI
+
+Diabetes Pedigree Function
+
+Age
+
+Target:
+
+Outcome → 0 = No Diabetes, 1 = Diabetes
