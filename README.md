@@ -37,8 +37,9 @@ DiabetesPrediction/
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/yourusername/diabetes-prediction.git
+https://github.com/Paras7527/Diabetes_Prediction
 cd diabetes-prediction
+
 
 
 ### 2️⃣ Create and activate a virtual environment (recommended)
